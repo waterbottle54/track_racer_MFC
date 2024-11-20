@@ -1,4 +1,4 @@
 # Track Racer (2016)
 
-![Screen and car dashboard](screenshots/dashboard)
+![Screen and car dashboard](res/dashboard)
 
