@@ -1,1 +1,4 @@
-# track_racer_MFC
+# Track Racer (2016)
+
+![Screen and car dashboard](screenshots/dashboard)
+
